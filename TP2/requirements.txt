@@ -7,3 +7,5 @@ xgboost
 plotly
 joblib
 nltk
+pysentimiento
+transformers[torch]
