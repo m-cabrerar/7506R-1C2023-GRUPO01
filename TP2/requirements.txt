@@ -7,5 +7,7 @@ xgboost
 plotly
 joblib
 nltk
-pysentimiento
-transformers[torch]
+langdetect
+#spacy
+#pysentimiento
+#transformers[torch]
